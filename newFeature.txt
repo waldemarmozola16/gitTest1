@@ -1,8 +1,2 @@
-To jest zmiana na masterze
-
-
-
-
-
-
+To jest zmiana na newFeature branchu
 
